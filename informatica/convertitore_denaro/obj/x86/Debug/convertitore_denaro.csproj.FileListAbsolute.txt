@@ -1,0 +1,7 @@
+Z:\informatica\convertitore_denaro\bin\Debug\convertitore_denaro.exe
+Z:\informatica\convertitore_denaro\bin\Debug\convertitore_denaro.pdb
+Z:\informatica\convertitore_denaro\obj\x86\Debug\convertitore_denaro.Form1.resources
+Z:\informatica\convertitore_denaro\obj\x86\Debug\convertitore_denaro.Properties.Resources.resources
+Z:\informatica\convertitore_denaro\obj\x86\Debug\convertitore_denaro.csproj.GenerateResource.Cache
+Z:\informatica\convertitore_denaro\obj\x86\Debug\convertitore_denaro.exe
+Z:\informatica\convertitore_denaro\obj\x86\Debug\convertitore_denaro.pdb

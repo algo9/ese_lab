@@ -1,0 +1,7 @@
+Z:\informatica\covertitore_temperatura\bin\Debug\covertitore_temperatura.exe
+Z:\informatica\covertitore_temperatura\bin\Debug\covertitore_temperatura.pdb
+Z:\informatica\covertitore_temperatura\obj\x86\Debug\convertitore_temperatura.Form1.resources
+Z:\informatica\covertitore_temperatura\obj\x86\Debug\covertitore_temperatura.Properties.Resources.resources
+Z:\informatica\covertitore_temperatura\obj\x86\Debug\covertitore_temperatura.csproj.GenerateResource.Cache
+Z:\informatica\covertitore_temperatura\obj\x86\Debug\covertitore_temperatura.exe
+Z:\informatica\covertitore_temperatura\obj\x86\Debug\covertitore_temperatura.pdb

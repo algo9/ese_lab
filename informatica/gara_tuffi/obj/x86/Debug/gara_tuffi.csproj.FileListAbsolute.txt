@@ -1,0 +1,4 @@
+Z:\informatica\gara_tuffi\bin\Debug\gara_tuffi.exe
+Z:\informatica\gara_tuffi\bin\Debug\gara_tuffi.pdb
+Z:\informatica\gara_tuffi\obj\x86\Debug\gara_tuffi.exe
+Z:\informatica\gara_tuffi\obj\x86\Debug\gara_tuffi.pdb

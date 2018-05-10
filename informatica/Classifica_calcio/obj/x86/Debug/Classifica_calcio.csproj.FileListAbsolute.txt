@@ -1,0 +1,9 @@
+Z:\informatica\Classifica_calcio\obj\x86\Debug\Classifica_calcio.FormMain.resources
+Z:\informatica\Classifica_calcio\obj\x86\Debug\Classifica_calcio.Properties.Resources.resources
+Z:\informatica\Classifica_calcio\obj\x86\Debug\Classifica_calcio.csproj.GenerateResource.Cache
+Z:\informatica\Classifica_calcio\obj\x86\Debug\Classifica_calcio.FormAgg.resources
+Z:\informatica\Classifica_calcio\bin\Debug\Classifica_calcio.exe
+Z:\informatica\Classifica_calcio\bin\Debug\Classifica_calcio.pdb
+Z:\informatica\Classifica_calcio\obj\x86\Debug\Classifica_calcio.exe
+Z:\informatica\Classifica_calcio\obj\x86\Debug\Classifica_calcio.pdb
+Z:\informatica\Classifica_calcio\obj\x86\Debug\Classifica_calcio.csprojResolveAssemblyReference.cache

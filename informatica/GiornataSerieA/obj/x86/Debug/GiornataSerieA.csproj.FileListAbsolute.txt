@@ -1,0 +1,4 @@
+Z:\informatica\GiornataSerieA\bin\Debug\GiornataSerieA.exe
+Z:\informatica\GiornataSerieA\bin\Debug\GiornataSerieA.pdb
+Z:\informatica\GiornataSerieA\obj\x86\Debug\GiornataSerieA.exe
+Z:\informatica\GiornataSerieA\obj\x86\Debug\GiornataSerieA.pdb

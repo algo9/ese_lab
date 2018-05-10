@@ -1,0 +1,8 @@
+Z:\informatica\Test_form\obj\x86\Debug\Test_form.FormMain.resources
+Z:\informatica\Test_form\obj\x86\Debug\Test_form.Properties.Resources.resources
+Z:\informatica\Test_form\obj\x86\Debug\Test_form.csproj.GenerateResource.Cache
+Z:\informatica\Test_form\bin\Debug\Test_form.exe
+Z:\informatica\Test_form\bin\Debug\Test_form.pdb
+Z:\informatica\Test_form\obj\x86\Debug\Test_form.exe
+Z:\informatica\Test_form\obj\x86\Debug\Test_form.pdb
+Z:\informatica\Test_form\obj\x86\Debug\Test_form.FormDati.resources

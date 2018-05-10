@@ -1,0 +1,9 @@
+Z:\informatica\giornata_serie_a\obj\x86\Debug\giornata_serie_a.Properties.Resources.resources
+Z:\informatica\giornata_serie_a\obj\x86\Debug\giornata_serie_a.csproj.GenerateResource.Cache
+Z:\informatica\giornata_serie_a\bin\Debug\giornata_serie_a.exe
+Z:\informatica\giornata_serie_a\bin\Debug\giornata_serie_a.pdb
+Z:\informatica\giornata_serie_a\obj\x86\Debug\giornata_serie_a.exe
+Z:\informatica\giornata_serie_a\obj\x86\Debug\giornata_serie_a.pdb
+Z:\informatica\giornata_serie_a\obj\x86\Debug\giornata_serie_a.FormMain.resources
+Z:\informatica\giornata_serie_a\obj\x86\Debug\giornata_serie_a.csprojResolveAssemblyReference.cache
+Z:\informatica\giornata_serie_a\obj\x86\Debug\giornata_serie_a.Form_agg.resources

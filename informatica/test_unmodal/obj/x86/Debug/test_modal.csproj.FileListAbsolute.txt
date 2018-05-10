@@ -1,0 +1,8 @@
+Z:\informatica\test_modal\bin\Debug\test_modal.exe
+Z:\informatica\test_modal\bin\Debug\test_modal.pdb
+Z:\informatica\test_modal\obj\x86\Debug\test_modal.Properties.Resources.resources
+Z:\informatica\test_modal\obj\x86\Debug\test_modal.csproj.GenerateResource.Cache
+Z:\informatica\test_modal\obj\x86\Debug\test_modal.exe
+Z:\informatica\test_modal\obj\x86\Debug\test_modal.pdb
+Z:\informatica\test_modal\obj\x86\Debug\Test_form.FormDati.resources
+Z:\informatica\test_modal\obj\x86\Debug\Test_form.FormMain.resources
